@@ -1,2 +1,2 @@
 #AI Chatbot
-A simpl chatbot built using python
+A simple chatbot built using Python.
